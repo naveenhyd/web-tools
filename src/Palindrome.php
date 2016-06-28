@@ -5,9 +5,10 @@
  * 
  * @author Naveen
  */
-require_once "autoload.php";
 
 namespace WebTools;
+
+require_once "autoload.php";
 
 class Palindrome {
 
