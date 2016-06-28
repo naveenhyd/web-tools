@@ -12,7 +12,8 @@
     },
     "autoload": {
         "psr-4": {
-            "WebTools\\": "src/"
+            "WebTools\\": "src/",
+            "WebTools\\Tests\\": "tests/"
         }
     }
 }
