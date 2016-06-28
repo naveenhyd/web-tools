@@ -1,0 +1,18 @@
+{
+    "name": "naveen/web-tools",
+    "description": "A sample library",
+    "authors": [
+        {
+            "name": "Naveen",
+            "email": "naveen@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "WebTools\\": "src/"
+        }
+    }
+}
